@@ -1,5 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  basePath: "/ecom-front",
+  output: "export",
   reactStrictMode: true,
   compiler: {
     styledComponents: true,
