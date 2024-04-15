@@ -84,7 +84,7 @@ export default function Featured({product}) {
                         </div>
                     </Column>
                     <Column>
-                        <Image src={"https://tech-comm-nextjs.s3.amazonaws.com/1688521634864.png"} alt="" />
+                        <Image src={"https://tech-comm-nextjs.s3.amazonaws.com/1688521634864.png"} width={400} height={400} alt="" />
                     </Column>
                 </ColumnsWrapper>
             </Center>
